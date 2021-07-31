@@ -1,4 +1,5 @@
 ﻿{
   "question": "Hai bisogno di utilizzare un framework JavaScript per ogni sito web?",
-  "answer": "No!"
+  "answer": "No!",
+  "alert": "Potresti voler controllare la console DevTools per errori. 😉"
 }
