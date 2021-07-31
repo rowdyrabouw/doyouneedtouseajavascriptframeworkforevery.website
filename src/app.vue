@@ -3,7 +3,6 @@
 </template>
 
 <script>
-
 export default {
   name: 'mainApp',
   created() {
@@ -14,3 +13,14 @@ export default {
   }
 }
 </script>
+
+<style>
+body {
+  margin: 0;
+  background-color: black;
+  background-image: url('/favicon.svg');
+  background-repeat: space;
+  background-size: 50px;
+  height: 100vh;
+}
+</style>
